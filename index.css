@@ -127,13 +127,13 @@ input#open {
 }
 
 .text-one:before {
-  content:"Valentine's";
+  content:"Valentine";
   top:30px;
   color: #d04e4e;
 }
 
 .text-one:after {
-  content:"day!";
+  content:"em dễ chương!";
   top:60px;
 }
 
